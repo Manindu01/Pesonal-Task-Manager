@@ -1,6 +1,3 @@
-
-Here’s a professional and detailed README.md file for your project:
-
 Task Manager
 A simple, lightweight, and responsive task manager built using HTML, CSS, and JavaScript. This app allows users to add, edit, and delete tasks, with the added convenience of local storage to save tasks persistently. Additionally, the project includes a dark mode toggle for better usability.
 
